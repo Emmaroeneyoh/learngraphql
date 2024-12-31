@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "ES6", // or "ESNext"
+    "module": "commonjs",
+    "strict": false,
+    "strictPropertyInitialization": false,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "typeRoots": ["node_modules/@types"],
+    "resolveJsonModule": true
+  },
+  "include": [
+    "src/**/*"
+  ]
+}

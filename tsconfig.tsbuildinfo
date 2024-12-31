@@ -1,0 +1,1 @@
+{"root":["./src/connectdb.ts","./src/index.ts","./src/post/post.ts","./src/post/resolver.ts","./src/post/validation.ts","./src/user/schema.ts","./src/user/user.ts","./src/user/validation.ts"],"version":"5.7.2"}
